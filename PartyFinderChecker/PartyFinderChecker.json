@@ -1,0 +1,12 @@
+{
+  "Author": "Raiden",
+  "Name": "Party Finder Checker",
+  "Punchline": "/pfc",
+  "Description": "Checks the Party Finder for a specific party",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}

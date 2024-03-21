@@ -1,4 +1,4 @@
-> ⚠️ **Don't click Fork!**
+> ⚠️ **Raiden is on it !!!**
 > 
 > This is a GitHub Template repo. If you want to use this for a plugin, just [use this template][new-repo] to make a new repo!
 >
